@@ -1,0 +1,17 @@
+=== 1. Bug report (multi-turn) ===
+Connected to harness support_chatbot (session 3df7f3a4-914d-49b3-a7d8-9236121516fc-support-chat).
+Type a message, or 'quit' to exit.
+
+you> bot> 
+Please tell me the steps you took that led to the checkout page freezing.
+
+you> bot> 
+Thank you for providing the steps. Could you please let me know the browser, operating system, and device you are using?
+
+you> bot> 
+
+[tool call] bugreports___create_bug_report
+
+Thank you for reporting this issue. Your ticket has been filed with the ID 5163969f-4f7d-4469-a2e5-8a8318439acb. Our team will look into it and follow up with you as soon as possible.
+
+you> 

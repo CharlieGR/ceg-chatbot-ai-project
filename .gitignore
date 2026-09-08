@@ -1,0 +1,6 @@
+.project_steps/*
+
+# Python
+project/starter/venv/
+project/starter/__pycache__/
+**/.DS_Store

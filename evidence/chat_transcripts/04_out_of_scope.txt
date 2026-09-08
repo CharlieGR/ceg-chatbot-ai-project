@@ -1,0 +1,8 @@
+
+=== 4. Out-of-scope request ===
+Connected to harness support_chatbot (session 7a5dc7ee-0cb6-415a-b947-4ff663163782-support-chat).
+Type a message, or 'quit' to exit.
+
+you> bot> This is outside the scope of my abilities. For recipe recommendations, please call 1-800-555-0199 (Monday–Friday, business hours).
+
+you> 

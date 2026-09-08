@@ -1,0 +1,10 @@
+
+=== 3. FAQ uncovered question ===
+Connected to harness support_chatbot (session 7b28c113-2656-47dc-9c0a-0277c4cda0dd-support-chat).
+Type a message, or 'quit' to exit.
+
+you> bot> This is a platform question, but the specific detail about price matching is not covered in the FAQ. Therefore, I will hand off the customer to a human agent.
+
+For further assistance regarding price matching, please contact our human support line at **1-800-555-0199** (Monday–Friday, business hours).
+
+you> 

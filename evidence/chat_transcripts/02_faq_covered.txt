@@ -1,0 +1,7 @@
+=== 2. FAQ covered question ===
+Connected to harness support_chatbot (session 353439bf-a530-468b-8ce6-06e2cad9a343-support-chat).
+Type a message, or 'quit' to exit.
+
+you> bot> You have 30 days from the delivery date to return an item, provided it is unused and in its original packaging. If the item arrived defective, please contact us within 7 days of delivery with photos of the item, packaging, and shipping label for a replacement or refund. For more details, refer to our return policy in the FAQ. If you need further assistance, please contact our support team directly at 1-800-555-0199.
+
+you> 
